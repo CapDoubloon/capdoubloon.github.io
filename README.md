@@ -1,4 +1,3 @@
-# capdoubloon.github.io
 <div id="errors" style="
   background: #c00;
   color: #fff;
